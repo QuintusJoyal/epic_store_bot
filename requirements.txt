@@ -1,0 +1,6 @@
+gunicorn
+requests
+flask
+selenium
+apscheduler
+psycopg2
