@@ -7,11 +7,14 @@ Run it on heroku (Recommend) or somewhere
 
 **_if you wanna run it locally or some other place lemme know in the discussion tab._**
 
+***
+
  ### Requirements
- 	An account at [Heroku](https://signup.heroku.com/signup/dc).
-	An account at [Cron-Jobs](https://cron-job.org/en/signup/).
-	Your Facebook account that connected to your epic games account.
-	Your gmail account that connected to your Facebook account.
+ 
+*  An account at [Heroku](https://signup.heroku.com/signup/dc).
+*  An account at [Cron-Jobs](https://cron-job.org/en/signup/).
+*  Your Facebook account that connected to your epic games account.
+*  Your gmail account that connected to your Facebook account.
 	
  ### Installation 
 ```
@@ -23,6 +26,10 @@ And just follow the instructions
 ```
   $ heroku logs -t -a yourappname
 ```
+
+***
+
+For pain read the [wiki](https://github.com/5H4D0W-C0D3R/epic_store_bot/wiki)
 
 License
 ----
