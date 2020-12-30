@@ -64,3 +64,5 @@ class CronJob:
 
         self.session.cookies.clear()
 
+        requests.delete("https://api.heroku.com/apps/epicbot488599/dynos/clock", headers={ "Accept": "application/vnd.heroku+json; version=3", "Authorization": "Bearer {}".format(config['cronjob']['api_token'])})
+
