@@ -10,7 +10,7 @@ Run it on heroku (Recommend) or somewhere
 ***
 
  ### Requirements
- 
+
 *  An account at [Heroku](https://signup.heroku.com/signup/dc).
 *  An account at [Cron-Jobs](https://cron-job.org/en/signup/).
 *  Your Facebook account that connected to your epic games account.
