@@ -3,6 +3,7 @@ import os
 import re
 import requests
 
+
 with open("config.json", "r") as old_config:
     config = json.load(old_config)
 
